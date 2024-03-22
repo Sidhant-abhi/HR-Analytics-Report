@@ -73,4 +73,6 @@ The 25-34 age group has the highest attrition rate of 21%. Investigating the rea
 - Develop a robust onboarding program for new hires, particularly within the first two years, to enhance engagement and reduce early departures.
 - Investigate the specific needs and motivations of the 25-34 age group to create a more attractive work environment and improve retention rates.
 
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.notion.so/Sidhant-Singh-Portfolio-07b15284a5834b2e98590d6acf1d8ae1)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidhantsingh-dataanalyst)

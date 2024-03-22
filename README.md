@@ -1,4 +1,4 @@
-# HR-Analytics-Report
+[# HR-Analytics-Report
 This report is created using Power BI that focuses on the HR department of the company stating the solution for their Attrition in recent times.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unlocking the potential of HR analytics is crucial for modern businesses seeking to make informed decisions about their workforce. With tools like Power BI, HR professionals can create dynamic dashboards that provide actionable insights at a glance. In this article, we'll delve into the power of HR analytics dashboards and how they revolutionize decision-making processes.
@@ -44,3 +44,4 @@ Laboratory Technician had the highest Sum of AttrtnCount of 62 and Sales Represe
 Job Satisfaction Matrix
 This matrix illustrates the rating provided by the employees in their respective job roles. 
 It simplifies that Sales Executive job employees were most unsatisfied with their work as they have the highest number of 1-star ratings.
+](https://)https://
